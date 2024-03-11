@@ -51,5 +51,5 @@ To use the application, follow these steps:
 
 **Notes**
 
-* The application is likely written in French.
-* The code appears to be organization-specific and may require adjustments for broader use. Ensure to review and modify as needed for your specific requirements.
+* The application is written in French.
+* The code is enterprise-specific and may require modifications for wider use. Be sure to review and modify as needed for your specific requirements.
