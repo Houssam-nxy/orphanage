@@ -1,0 +1,8 @@
+DirectoryIndex login.php
+
+ErrorDocument 404 "<H1>Page introuvable</H1><p>Retourner à la page de connexion</p>"
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
