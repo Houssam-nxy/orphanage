@@ -116,14 +116,6 @@ $hashedPasscode = password_hash($passcode, PASSWORD_DEFAULT);
                   <input name="passcode" type="password" class="form-control" id="validationDefault05" required>
                 </div>
                 <div class="col-12">
-                  <div class="form-check">
-                    <input class="form-check-input" type="checkbox" value="" id="invalidCheck2" required>
-                    <label class="form-check-label" for="invalidCheck2">
-                      Accepter les termes et conditions
-                    </label>
-                  </div>
-                </div>
-                <div class="col-12">
                   <input class="btn btn-primary" type="submit" name="submit_login" value="Démarrer">
                 </div>
 

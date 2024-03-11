@@ -138,7 +138,7 @@ if ($connection) {
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Nom de société</title>
-  <meta content="" name="description">
+  <meta content="" name="Description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -214,7 +214,7 @@ if ($connection) {
                     <h4 class="alert-heading">Puis-je uniquement télécharger les données sans les supprimer ?</h4>
                     <p>Oui, vous avez la possibilité de télécharger les données au format SQL sans les supprimer. Il vous suffit de cliquer sur les boutons respectifs (Télécharger SQL) pour lancer le téléchargement.</p>
                     <hr>
-                    <p class="mb-0">Temporibus quis et qui aspernatur laboriosam sit eveniet qui sunt.</p><br>
+                    <p class="mb-0">Description</p><br>
                     <input type="submit" class="btn btn-success" name="download_sql" value="Télécharger SQL">
                 </div>
 
@@ -222,7 +222,7 @@ if ($connection) {
                     <h4 class="alert-heading">Comment puis-je supprimer les données ?</h4>
                     <p>Pour supprimer les données, cliquez sur le bouton "Supprimer les Données". Cela supprime toutes les données de la base de données.</p>
                     <hr>
-                    <p class="mb-0">Temporibus quis et qui aspernatur laboriosam sit eveniet qui sunt.</p><br>
+                    <p class="mb-0">Description</p><br>
                     <input type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#verticalycentered" value="Supprimer les Données" />
                 </div>
 
