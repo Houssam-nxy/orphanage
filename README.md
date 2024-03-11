@@ -36,7 +36,7 @@ Ensure the following prerequisites are met before installing the application:
 Follow these steps for a successful installation:
 
 1. Clone or download the application files to your web server.
-2. Create a database on your MySQL server and import the necessary tables (likely included in the application files).
+2. Create a database on your MySQL server and import the necessary tables (included in the application files).
 3. Configure the `conn.php` file with your database connection details.
 4. Upload the application files to your web server's document root.
 
