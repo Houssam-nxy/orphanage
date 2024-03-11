@@ -45,9 +45,13 @@ Follow these steps for a successful installation:
 To use the application, follow these steps:
 
 1. Log in as an administrator using the designated login page.
-2. Navigate to the "Remplir Le Formulaire" (Fill the Form) page to register new beneficiaries.
-3. Complete the beneficiary information form and optionally upload a profile picture.
-4. Click "Enregistrer le profil" (Save Profile) to submit the information.
+  '''
+  1. admin@orph.com
+  1. admin_admin
+  '''
+3. Navigate to the "Remplir Le Formulaire" (Fill the Form) page to register new beneficiaries.
+4. Complete the beneficiary information form and optionally upload a profile picture.
+5. Click "Enregistrer le profil" (Save Profile) to submit the information.
 
 **Notes**
 
